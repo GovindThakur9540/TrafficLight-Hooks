@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TrafficLight-Hooks/static/css/main.2e10ed2a.chunk.css",
+    "main.js": "/TrafficLight-Hooks/static/js/main.7183e58c.chunk.js",
+    "main.js.map": "/TrafficLight-Hooks/static/js/main.7183e58c.chunk.js.map",
+    "runtime-main.js": "/TrafficLight-Hooks/static/js/runtime-main.0556f3bb.js",
+    "runtime-main.js.map": "/TrafficLight-Hooks/static/js/runtime-main.0556f3bb.js.map",
+    "static/js/2.7d73d097.chunk.js": "/TrafficLight-Hooks/static/js/2.7d73d097.chunk.js",
+    "static/js/2.7d73d097.chunk.js.map": "/TrafficLight-Hooks/static/js/2.7d73d097.chunk.js.map",
+    "index.html": "/TrafficLight-Hooks/index.html",
+    "static/css/main.2e10ed2a.chunk.css.map": "/TrafficLight-Hooks/static/css/main.2e10ed2a.chunk.css.map",
+    "static/js/2.7d73d097.chunk.js.LICENSE.txt": "/TrafficLight-Hooks/static/js/2.7d73d097.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0556f3bb.js",
+    "static/js/2.7d73d097.chunk.js",
+    "static/css/main.2e10ed2a.chunk.css",
+    "static/js/main.7183e58c.chunk.js"
+  ]
+}
